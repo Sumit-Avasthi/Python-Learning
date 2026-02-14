@@ -1,0 +1,5 @@
+This is the first line
+This is the new lineThis is the append operationThis is the append operation
+Line one
+Line two
+Line three
